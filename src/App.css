@@ -1,0 +1,16 @@
+
+h1 {
+  padding-block: 30px;
+}
+.row{
+  margin: 10px;
+}
+input{
+  width: 100%;
+  padding-block: 3px;
+  border-radius: 5px;
+  outline: none;
+}
+button{
+  min-width: 80px;
+}
